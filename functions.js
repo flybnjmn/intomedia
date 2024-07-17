@@ -1,5 +1,14 @@
 function numbers_F(variant_sel_F, corp_phone, corp_fax, corp_mobile, corp_email) {
     var numbers;
+
+
+
+
+
+
+
+
+    
     if (variant_sel_F == "" && corp_phone != "" && corp_fax != "" && corp_mobile != "" && corp_email != "") {
         numbers = corp_phone + "&nbsp;&nbsp;|&nbsp;&nbsp;" + corp_fax + "\n" + corp_mobile + "&nbsp;&nbsp;|&nbsp;&nbsp;" + corp_email;
     }
