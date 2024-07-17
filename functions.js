@@ -1,3 +1,4 @@
+// Testkommentar
 function numbers_F(variant_sel_F, corp_phone, corp_fax, corp_mobile, corp_email) {
     var numbers;
 
